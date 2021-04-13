@@ -1,0 +1,9 @@
+C:\Users\julia3000\Documents\Documents\Cursos\c#\teste1\teste1\bin\Debug\teste1.exe
+C:\Users\julia3000\Documents\Documents\Cursos\c#\teste1\teste1\bin\Debug\teste1.pdb
+C:\Users\julia3000\Documents\Documents\Cursos\c#\teste1\teste1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\julia3000\Documents\Documents\Cursos\c#\teste1\teste1\obj\x86\Debug\teste1.Form1.resources
+C:\Users\julia3000\Documents\Documents\Cursos\c#\teste1\teste1\obj\x86\Debug\teste1.Properties.Resources.resources
+C:\Users\julia3000\Documents\Documents\Cursos\c#\teste1\teste1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\julia3000\Documents\Documents\Cursos\c#\teste1\teste1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\julia3000\Documents\Documents\Cursos\c#\teste1\teste1\obj\x86\Debug\teste1.exe
+C:\Users\julia3000\Documents\Documents\Cursos\c#\teste1\teste1\obj\x86\Debug\teste1.pdb
